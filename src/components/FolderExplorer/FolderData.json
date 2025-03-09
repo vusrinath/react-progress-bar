@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "name": "Personal",
+        "isFolder": true,
+        "ischildren": true,
+        "children": [
+            {
+                "id": 2,
+                "name": "Node",
+                "isFolder": true,
+                "children": [
+                    {
+                        "id": 5,
+                        "name": "index.html",
+                        "isFolder": false
+                    },
+                    {
+                        "id": 6,
+                        "name": "index.js",
+                        "isFolder": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "User",
+        "isFolder": true,
+        "ischildren": true,
+        "children": [
+            {
+                "id": 4,
+                "name": "node.js",
+                "isFolder": true,
+                "ischildren": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Vunnava",
+        "isFolder": true,
+        "ischildren": true,
+        "children": [
+            {
+                "id": 10,
+                "name": "Ramjan.js",
+                "isFolder": true,
+                "ischildren": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Kanakankla",
+        "isFolder": true,
+        "ischildren": true,
+        "children": [
+            {
+                "id": 12,
+                "name": "April.js",
+                "isFolder": true,
+                "ischildren": false
+            }
+        ]
+    }
+]
