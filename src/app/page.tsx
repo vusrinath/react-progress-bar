@@ -4,7 +4,7 @@ import ProgressBar from '../components/ProgressBar/progressBar';
 
 export default function Home() {
 
-  let list = [0, 20, 40, 60, 80, 100];
+  let list = [20, 60, 80];
 
 
   return (
@@ -18,7 +18,5 @@ export default function Home() {
       })}
     </div>
   )
-
-
 
 }
