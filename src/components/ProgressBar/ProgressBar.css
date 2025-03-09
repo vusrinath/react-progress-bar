@@ -1,0 +1,22 @@
+.progressbody {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.outer {
+    border: 1px solid black;
+    width: 80%;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.inner {
+    background-color: rgb(199, 247, 127);
+    text-align: center;
+    padding: 1px;
+    transition: 1s ease-in;
+}
